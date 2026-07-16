@@ -1,4 +1,5 @@
 streamlit
 SQLAlchemy
+psycopg2-binary
 alembic
 pandas
