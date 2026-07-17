@@ -1,5 +1,9 @@
 import streamlit as st
 
-st.title("Sales")
+from utils.i18n import tr
 
-st.warning("This page is under construction.")
+_ = tr()
+
+st.title(_("Sales"))
+
+st.warning(_("This page is under construction."))

@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: bg\n"
+
+msgid "Home"
+msgstr "Начало"
+
+msgid "Sales"
+msgstr "Продажби"
+
+msgid "Cash Desk"
+msgstr "Каса"
+
+msgid "Expenses"
+msgstr "Разходи"
+
+msgid "Salaries"
+msgstr "Заплати"
+
+msgid "Reports"
+msgstr "Отчети"
+
+msgid "Setup"
+msgstr "Настройки"
+
+msgid "Locations"
+msgstr "Обекти"
+
+msgid "Vehicle Types"
+msgstr "Типове автомобили"
+
+msgid "Service Types"
+msgstr "Типове услуги"
+
+msgid "Services"
+msgstr "Услуги"
+
+msgid "Service Prices"
+msgstr "Цени на услуги"
+
+msgid "Vehicle Brands"
+msgstr "Марки автомобили"
+
+msgid "Employee Positions"
+msgstr "Длъжности"
+
+msgid "Employees"
+msgstr "Служители"
+
+msgid "Subscribers"
+msgstr "Абонати"
+
+msgid "Calendar Events"
+msgstr "Календар"
+
+msgid "This page is under construction."
+msgstr "Тази страница е в процес на разработка."

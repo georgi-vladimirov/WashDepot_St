@@ -1,0 +1,8 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: en\n"
+
+# English is the source language — msgids are already English,
+# so this file only needs entries when the display text should
+# differ from the msgid. Missing entries fall back to the msgid.
