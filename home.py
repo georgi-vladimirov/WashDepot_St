@@ -4,7 +4,7 @@ import streamlit as st
 
 from utils.i18n import language_selector, tr
 
-st.set_page_config(page_title="Home")
+st.set_page_config(page_title="Home", layout="wide")
 
 _ = tr()
 

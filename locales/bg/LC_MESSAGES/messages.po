@@ -56,3 +56,6 @@ msgstr "Календар"
 
 msgid "This page is under construction."
 msgstr "Тази страница е в процес на разработка."
+
+msgid "Name"
+msgstr "Име"

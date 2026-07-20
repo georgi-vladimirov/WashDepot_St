@@ -53,8 +53,8 @@ subscriber_locations = Table(
 class Location(BaseModel):
     __tablename__ = "core_locations"
 
-    name: Mapped[str] = mapped_column(String(100), unique=True)
-    short_name: Mapped[str] = mapped_column(String(4), unique=True)
+    name: Mapped[str] = mapped_column(String(100), unique=True, info={"label":"Name"})
+    short_name: Mapped[str] = mapped_column(String(4), unique=True, info={"label":"Short name"})
 
     service_prices: Mapped[list["ServicePrice"]] = relationship(
         secondary=service_price_locations, back_populates="locations"

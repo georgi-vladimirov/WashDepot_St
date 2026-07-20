@@ -1,4 +1,4 @@
-from .base import BaseModel  # noqa: F401
+from .base import BaseModel, T  # noqa: F401
 from .core import (  # noqa: F401
     CalendarEvent,
     Employee,
