@@ -71,7 +71,7 @@ class Location(BaseModel):
 class VehicleType(BaseModel):
     __tablename__ = "core_vehicle_types"
 
-    name: Mapped[str] = mapped_column(String(20), unique=True)
+    name: Mapped[str] = mapped_column(String(20), unique=True, info={"label":"Name"})
 
     def __str__(self) -> str:
         return self.name
